@@ -2,9 +2,9 @@
 #### And I am a backend developer (Python)
 ![And I am a backend developer (Python)](https://careertest.ru/static/img/professions/programmist.jpg)
 
-Мои контакты: 
-- Телеграм: @Jewtop
-- Почта: gidwin@mail.ru
+My contacts: 
+- Telegram: @Jewtop
+- E-mail: gidwingod@gmail.com
 - ✨Magic ✨
 
 Skills: Python/  SQL/  Git/ Bash/  PostgreSQL/  Linux/  Django Framework/  Docker/ Nginx/  REST API/  MySQL/ 
