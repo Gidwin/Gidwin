@@ -9,7 +9,7 @@ My contacts:
 
 Skills: Python/  SQL/  Git/ Bash/  PostgreSQL/  Linux/  Django Framework/  Docker/ Nginx/  REST API/  MySQL/ /FastAPI /XML /SOAP
 
-- 🔭 Currently I am writing process automation scripts for a company
+- 🔭 Currently I am working on process automation scripts
 - 🌱 Learned Python with [Yandex.Practicum](https://practicum.yandex.ru/) 
 
 
