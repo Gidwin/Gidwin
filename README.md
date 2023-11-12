@@ -7,10 +7,10 @@ My contacts:
 - E-mail: gidwingod@gmail.com
 - ✨Magic ✨
 
-Skills: Python/  SQL/  Git/ Bash/  PostgreSQL/  Linux/  Django Framework/  Docker/ Nginx/  REST API/  MySQL/ 
+Skills: Python/  SQL/  Git/ Bash/  PostgreSQL/  Linux/  Django Framework/  Docker/ Nginx/  REST API/  MySQL/ /FastAPI /XML /SOAP
 
-- 🔭 I’m currently working on study projects 
-- 🌱 I’m currently learning Python with help from [Yandex.Practicum](https://practicum.yandex.ru/) 
+- 🔭 Currently I am writing process automation scripts for a company
+- 🌱 Learned Python with [Yandex.Practicum](https://practicum.yandex.ru/) 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Gidwin)  
