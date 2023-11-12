@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Nikita
+### Hi there 👋, my name is Nikita Lezhakin
 #### And I am a backend developer (Python)
 ![And I am a backend developer (Python)](https://careertest.ru/static/img/professions/programmist.jpg)
 
